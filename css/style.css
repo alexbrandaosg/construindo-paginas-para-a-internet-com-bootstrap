@@ -1,0 +1,51 @@
+.navbar {
+  background: gainsboro;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.navbar-nav {
+  text-align: right;
+  padding-left: 40%;
+}
+
+#hero {
+  height: 800px;
+  background: rgb(107, 107, 107);
+}
+
+.container-hero {
+}
+
+#quem-somos {
+  padding-top: 100px;
+  background: rgb(238, 238, 238);
+}
+
+.botao-sega {
+  margin: 5px;
+}
+
+#jogos {
+  padding-top: 100px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.row-jogos {
+  margin-top: 40px;
+}
+
+.titulos-jogos {
+  justify-content: center;
+
+  text-align: center;
+}
+
+.row-jogos p {
+  text-align: center;
+}
