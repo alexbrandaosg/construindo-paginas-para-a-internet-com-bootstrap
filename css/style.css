@@ -25,11 +25,14 @@
 }
 
 .botao-sega {
-  margin: 5px;
+  margin-top: 25px;
 }
 
 #jogos {
   padding-top: 100px;
+  justify-content: center;
+
+  text-align: center;
 }
 
 h2 {
@@ -48,4 +51,31 @@ h2 {
 
 .row-jogos p {
   text-align: center;
+}
+
+#trabalhe-conosco {
+  color: floralwhite;
+  background: #0531c5d3;
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.form-group {
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+  width: 50%;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+
+.btn-envio{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
